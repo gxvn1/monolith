@@ -1,10 +1,14 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-06T18:30:08.320Z",
+  "generatedAt": "2026-08-06T21:13:43.076Z",
   "hashes": {
     "08e719da86aeca86bf0b6767e1e797fe5f84bff5791ab04da162fd48a33543ff": {
       "role": "Owner",
       "rank": 8
+    },
+    "227b4fe77cd73014485902e5459bf5d24fba86281f3da08a5146acdb9a213220": {
+      "role": "Creator",
+      "rank": 3
     }
   }
 }
