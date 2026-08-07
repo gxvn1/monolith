@@ -1,10 +1,14 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-06T21:13:43.076Z",
+  "generatedAt": "2026-08-07T02:31:22.299Z",
   "players": {
     "8A18FA2163162E64": {
       "role": "Owner",
       "rank": 8
+    },
+    "5628EEAC29233D33": {
+      "role": "Creator",
+      "rank": 3
     }
   }
 }
